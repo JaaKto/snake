@@ -1,5 +1,5 @@
 # snake
-🐍 snake game build with p5.js
+🐍 canvas snake game
 
 In order to run a development or production build:
 
